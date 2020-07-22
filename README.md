@@ -1,6 +1,9 @@
 # EiB
 
-A virtual assistant which let it users to automate actions using voice.
+A Google Chrome based extension serving as a virtual assistant to automate multiple tasks via voice.
+
+Automates searching for Meanings, Playing songs, Opening a website, Google search, listening to weather reports in different cities, and save
+time on bookmarking pages.
 
 ## Team Members-
 
