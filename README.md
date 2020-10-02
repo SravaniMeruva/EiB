@@ -5,8 +5,6 @@ A Google Chrome based extension serving as a virtual assistant to automate multi
 Automates searching for Meanings, Playing songs, Opening a website, Google search, listening to weather reports in different cities, and save
 time on bookmarking pages.
 
-This project got us the 2nd prize in a hackathon
-
 ## Team Members-
 
 [**Naga Sai Sree Balaji Meruva**](https://github.com/BLJS2warchief) <br />
